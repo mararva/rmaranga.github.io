@@ -1,10 +1,9 @@
 ---
-title: "rmaranga"
+title: "rmaranga.github.com"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I am a Statistics student at Cal Poly, and this is my website.\
+e9hf943fyb4fh4fbewf
 
 ```{r}
 1 + 1
