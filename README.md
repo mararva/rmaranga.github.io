@@ -1,2 +1,2 @@
 # rmaranga.github.io
-Website?
+Website proj for STAT 365
