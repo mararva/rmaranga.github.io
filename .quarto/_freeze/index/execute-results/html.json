@@ -1,7 +1,7 @@
 {
-  "hash": "55dc6a39e384f088880be18535770fe1",
+  "hash": "a7ddeeff5927ac3b9f87de176008ce17",
   "result": {
-    "markdown": "---\ntitle: \"rmaranga.github.com\"\n---\n\n\nHello! I am a Statistics student at Cal Poly, and this is my website.\\\ne9hf943fyb4fh4fbewf\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"rmaranga.github.com\"\n---\n\n\nHello! I am a Statistics student at Cal Poly, and this is my website.\\\n\n\"e9hf943fyb4fh4fbewf\"\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#R code goes here\n```\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

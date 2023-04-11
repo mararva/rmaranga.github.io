@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site:\nThis webpage was created for my STAT 365 course.\n\nAbout me: View My Resume\n\n#R code goes here."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "rmaranga.github.com",
     "section": "",
-    "text": "Hello! I am a Statistics student at Cal Poly, and this is my website.\ne9hf943fyb4fh4fbewf\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I am a Statistics student at Cal Poly, and this is my website.\n\n“e9hf943fyb4fh4fbewf”\n\n#R code goes here"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "rmaranga",
+    "section": "",
+    "text": "PHONE: 8184562333\nEMAIL: ryanmarangattu@gmail.com\nPROFILE: I am a current Cal Poly student looking to gain real-world job experience and professional development via internship in the fields of finance and data science.\nWORK EXPERIENCE\n* June 2017 – June 2020(seasonal)            Machinist at Arch Machining, Los Angeles\nSorted and analyzed terabytes of raw data for the company archives. Assisted in managing budgets. Operated CNC machinery and processed final products.\nEDUCATION\n* August 2021 – June 2025(expected) California Polytechnic State University, San Luis Obispo\nBA, Statistics\nSKILLS\nAdvanced Computer Skills\nHighly proficient in MS Office and Google Suite\nWorks with R and JMP\nWriting Skills\nAbility to Multitask\nCommunication Skills\nAbility to Work in a Team\nDetail Oriented and Efficiency Minded\nAdaptability and Perseverance\nREFERENCES\n* Varghese Joseph, Arch Machining\n8184021049, joseph@archmachining.com"
   }
 ]

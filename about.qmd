@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+About this site:
+
+This webpage was created for my STAT 365 course.\
+\
+About me: [View My Resume](resume.qmd)
 
 ```{r}
-1 + 1
+#R code goes here.
 ```
