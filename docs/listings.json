@@ -4,5 +4,11 @@
     "items": [
       "/posts/masters/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/masters/index.html"
+    ]
   }
 ]
