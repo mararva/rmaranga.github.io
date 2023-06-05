@@ -2,12 +2,10 @@
 title: "About"
 ---
 
-About this site:
-
+About this site:\
 This webpage was created for my STAT 365 course.\
 \
-About me: [View My Resume](resume.qmd)
-
-```{r}
-#R code goes here.
-```
+About me: [View My Resume](resume.qmd)\
+I currently go to Cal Poly, and am enrolled in the undergraduate Statistics program there. I also have a Mathematics minor. My expected graduation date is June 2025.\
+My GitHub can be found here: <https://github.com/mararva>\
+My LinkedIn can be found here: <https://www.linkedin.com/in/ryan-marangattu/>

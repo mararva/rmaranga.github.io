@@ -4,20 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site:\nThis webpage was created for my STAT 365 course.\n\nAbout me: View My Resume\n\n#R code goes here."
+    "text": "About this site:\nThis webpage was created for my STAT 365 course.\n\nAbout me: View My Resume\nI currently go to Cal Poly, and am enrolled in the undergraduate Statistics program there. I also have a Mathematics minor. My expected graduation date is June 2025.\nMy GitHub can be found here: https://github.com/mararva\nMy LinkedIn can be found here: https://www.linkedin.com/in/ryan-marangattu/"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rmaranga.github.com",
+    "title": "Ryan Marangattu",
     "section": "",
-    "text": "Hello! I am a current Statistics student at Cal Poly, and this is my website.\n\nThis webpage was created for my STAT 365 course.\n\nAny projects I work on will be posted here. There isn’t much yet but more will come."
+    "text": "Hello! I am Ryan Marangattu, a current Statistics student at Cal Poly, and this is my website.\n\nThis webpage was created for my STAT 365 course.\nTo learn more about me, visit the About Me page.\nTo view my resume, visit the Resume page.\nAny projects I work on will be posted to the Projects page."
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "rmaranga",
+    "title": "Ryan M",
     "section": "",
-    "text": "PHONE: 8184562333\nEMAIL: ryanmarangattu@gmail.com\nPROFILE: I am a current Cal Poly student looking to gain real-world job experience and professional development via internship in the fields of finance and data science.\nWORK EXPERIENCE\n* June 2017 – June 2020(seasonal)            Machinist at Arch Machining, Los Angeles\nSorted and analyzed terabytes of raw data for the company archives. Assisted in managing budgets. Operated CNC machinery and processed final products.\nEDUCATION\n* August 2021 – June 2025(expected) California Polytechnic State University, San Luis Obispo\nBA, Statistics, Minor in Mathematics\nSKILLS\nAdvanced Computer Skills\nHighly proficient in MS Office and Google Suite\nWorks with R and JMP\nWriting Skills\nAbility to Multitask\nCommunication Skills\nAbility to Work in a Team\nDetail Oriented and Efficiency Minded\nAdaptability and Perseverance\nREFERENCES\n* Varghese Joseph, Arch Machining\n8184021049, joseph@archmachining.com"
+    "text": "EMAIL: ryanmarangattu@gmail.com\nPROFILE: I am a current Cal Poly student looking to gain real-world job experience and professional development via internship in the fields of finance and data science.\nWORK EXPERIENCE\n* June 2017 – June 2020(seasonal)            Machinist at Arch Machining, Los Angeles\nSorted and analyzed terabytes of raw data for the company archives. Assisted in managing budgets. Operated CNC machinery and processed final products.\nEDUCATION\n* August 2021 – June 2025(expected) California Polytechnic State University, San Luis Obispo\nBA, Statistics, Minor in Mathematics\nSKILLS\nAdvanced Computer Skills\nHighly proficient in MS Office and Google Suite\nWorks with R and JMP\nWriting Skills\nAbility to Multitask\nCommunication Skills\nAbility to Work in a Team\nDetail Oriented and Efficiency Minded\nAdaptability and Perseverance\nREFERENCES\n* Varghese Joseph, Arch Machining\n8184021049, joseph@archmachining.com"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ryan M",
+    "section": "",
+    "text": "Copy the Masters Project:\n\n\nIn this project, I reproduced a graphic from FiveThirtyEight using R and the ggplot package."
+  },
+  {
+    "objectID": "posts/masters/index.html",
+    "href": "posts/masters/index.html",
+    "title": "Copy the Masters: FiveThirtyEight",
+    "section": "",
+    "text": "In this project, I reproduced a graphic from FiveThirtyEight using R and the ggplot package."
+  },
+  {
+    "objectID": "projects2.html",
+    "href": "projects2.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\nNo matching items"
   }
 ]

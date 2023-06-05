@@ -1,0 +1,9 @@
+---
+title: "Copy the Masters: FiveThirtyEight"
+author: "Ryan Marangattu"
+date: "2023-05-20"
+---
+
+![](images/Screenshot%202023-06-05%20132528.png)
+
+In this project, I reproduced a graphic from FiveThirtyEight using R and the ggplot package.

@@ -1,9 +1,13 @@
 ---
-title: "rmaranga.github.com"
+title: "Ryan Marangattu"
 ---
 
-Hello! I am a current Statistics student at Cal Poly, and this is my website.\
+Hello! I am Ryan Marangattu, a current Statistics student at Cal Poly, and this is my website.\
 \
-This webpage was created for my STAT 365 course.\
-\
-Any projects I work on will be posted here. There isn't much yet but more will come.
+This webpage was created for my STAT 365 course.
+
+To learn more about me, visit the About Me page.
+
+To view my resume, visit the Resume page.
+
+Any projects I work on will be posted to the Projects page.

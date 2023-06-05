@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "rmaranga"
+  title: "Ryan M"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resume.qmd
+        text: Resume
+      - href: projects2.qmd
+        text: Projects
 
 format:
   html:

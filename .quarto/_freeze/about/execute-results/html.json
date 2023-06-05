@@ -1,7 +1,7 @@
 {
-  "hash": "e9a69b68ad90a67398cad7d541c1d51c",
+  "hash": "988abdd389038374bf0c1d29505f846a",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site:\n\nThis webpage was created for my STAT 365 course.\\\n\\\nAbout me: [View My Resume](resume.qmd)\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#R code goes here.\n```\n:::\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site:\\\nThis webpage was created for my STAT 365 course.\\\n\\\nAbout me: [View My Resume](resume.qmd)\\\nI currently go to Cal Poly, and am enrolled in the undergraduate Statistics program there. I also have a Mathematics minor. My expected graduation date is June 2025.\\\nMy GitHub can be found here: <https://github.com/mararva>\\\nMy LinkedIn can be found here: <https://www.linkedin.com/in/ryan-marangattu/>\\\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#R code goes here.\n```\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

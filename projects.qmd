@@ -1,0 +1,5 @@
+Copy the Masters Project:\
+
+![](images/Screenshot%202023-06-05%20132528.png)
+
+In this project, I reproduced a graphic from FiveThirtyEight using R and the ggplot package.
