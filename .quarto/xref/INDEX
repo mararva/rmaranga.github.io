@@ -16,5 +16,11 @@
   },
   "projects2.qmd": {
     "projects2.html": "f7bf107e"
+  },
+  "posts/masters/copythemasters.qmd": {
+    "copythemasters.html": "0f5ed71e"
+  },
+  "posts/riddler/riddler.qmd": {
+    "riddler.html": "6016cc9e"
   }
 }

@@ -1,0 +1,9 @@
+---
+title: "The Battle of Riddler Nation!"
+author: "Ryan Marangattu"
+date: "2023-12-08"
+---
+
+![](images/riddlerscreenshot.png)
+
+In this project, I recreated the Colonel Blotto game, a well known game theory problem, using RShiny. This project is available at <https://maranheads.shinyapps.io/331project/>.
