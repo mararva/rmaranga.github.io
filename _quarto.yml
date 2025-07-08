@@ -5,7 +5,7 @@ project:
     - resume.pdf
 
 website:
-  title: "Ryan M"
+  title: "Ryan Marangattu"
   navbar:
     left:
       - href: index.qmd
