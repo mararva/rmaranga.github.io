@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - resume.pdf
 
 website:
   title: "Ryan M"
@@ -9,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: resume.qmd
+      - href: resume.pdf
         text: Resume
       - href: projects.qmd
         text: Projects
