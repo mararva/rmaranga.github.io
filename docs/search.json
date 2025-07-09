@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nThe Battle of Riddler Nation!\n\n\n\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nContributions to the Tidyverse\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2024\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nThe Battle of Riddler Nation!\n\n\n\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/masters/index.html",
@@ -54,5 +54,12 @@
     "title": "The Battle of Riddler Nation!",
     "section": "",
     "text": "In this project, I recreated the Colonel Blotto game, a well known game theory problem, using RShiny. This project is available at https://maranheads.shinyapps.io/331project/."
+  },
+  {
+    "objectID": "posts/stringr/stringr.html",
+    "href": "posts/stringr/stringr.html",
+    "title": "Contributions to the Tidyverse",
+    "section": "",
+    "text": "As part of an independent study course I took at Cal Poly in Fall 2024, I contributed to the stringr package of the “tidyverse” in R."
   }
 ]

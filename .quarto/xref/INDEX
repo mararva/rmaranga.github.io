@@ -22,5 +22,8 @@
   },
   "posts/riddler/riddler.qmd": {
     "riddler.html": "6016cc9e"
+  },
+  "posts/stringr/stringr.qmd": {
+    "stringr.html": "870eb5a1"
   }
 }
