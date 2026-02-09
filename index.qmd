@@ -1,10 +1,8 @@
 ---
-title: "Ryan Marangattu"
+title: "Ryan V Marangattu"
 ---
 
-Hello! I am Ryan Marangattu, a current Statistics student at Cal Poly, and this is my website.\
-\
-This webpage was created for my STAT 365 course.
+Hello! I am a current Statistics student at Cal Poly.
 
 To learn more about me, visit the About Me page.
 
