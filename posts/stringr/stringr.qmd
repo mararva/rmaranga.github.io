@@ -6,4 +6,4 @@ date: "2024-12-18"
 
 ![](images/stringr.png)
 
-As part of an independent study course I took at Cal Poly in Fall 2024, I contributed to the stringr package of the "tidyverse" in R.
+As part of an independent study course I took at Cal Poly in Fall 2024, I made contributions to the stringr package of the "tidyverse" in R.
