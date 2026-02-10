@@ -8,7 +8,9 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/posts/colonelblotto/colonelblotto.html",
       "/posts/stringr/stringr.html",
+      "/posts/sdss/sdss.html",
       "/posts/riddler/riddler.html",
       "/posts/masters/copythemasters.html"
     ]

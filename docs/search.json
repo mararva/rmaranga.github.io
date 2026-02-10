@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nContributions to the Tidyverse\n\n\n\n\n\n\n\n\nDec 18, 2024\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nThe Battle of Riddler Nation!\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nColonel Blotto Game\n\n\n\n\n\n\n\n\nFeb 10, 2026\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nContributions to the Tidyverse\n\n\n\n\n\n\n\n\nDec 18, 2024\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nSDSS 2024\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nThe Battle of Riddler Nation!\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/masters/index.html",
@@ -61,5 +61,19 @@
     "title": "Contributions to the Tidyverse",
     "section": "",
     "text": "As part of an independent study course I took at Cal Poly in Fall 2024, I contributed to the stringr package of the “tidyverse” in R."
+  },
+  {
+    "objectID": "posts/sdss/sdss.html",
+    "href": "posts/sdss/sdss.html",
+    "title": "SDSS 2024",
+    "section": "",
+    "text": "I had the honor of attending the American Statistical Association’s Symposium on Data Science and Statistics from June 4-7, 2024 in Richmond, VA! I appreciated being able to network with professionals in the space and watch researchers’ presentations on various topics."
+  },
+  {
+    "objectID": "posts/colonelblotto/colonelblotto.html",
+    "href": "posts/colonelblotto/colonelblotto.html",
+    "title": "Colonel Blotto Game",
+    "section": "",
+    "text": "I recreated the Colonel Blotto game entirely using R, using Shiny to host it as an online applet. The Colonel Blotto game is a classic problem in game theory where two players divide a fixed number of troops across castles with different strategic importance. Each castle is won by whoever commits more troops, and the overall winner is determined by the total value of castles won.\nI modeled the Colonel’s behavior using Thompson sampling, a Bayesian approach to adaptive decision making that allows decisions to improve over time through experience. This method allows it to evaluate how well each option would have performed against the player’s move after every round and adjust how likely it is to choose each one in the future. This process naturally balances trying strategies that have worked well before with occasionally exploring new ones, which keeps the Colonel adaptive and unpredictable."
   }
 ]

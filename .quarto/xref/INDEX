@@ -25,5 +25,11 @@
   },
   "posts/stringr/stringr.qmd": {
     "stringr.html": "870eb5a1"
+  },
+  "posts/sdss/sdss.qmd": {
+    "sdss.html": "417181f6"
+  },
+  "posts/colonelblotto/colonelblotto.qmd": {
+    "colonelblotto.html": "5d700094"
   }
 }

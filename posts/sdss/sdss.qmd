@@ -1,0 +1,9 @@
+---
+title: "SDSS 2024"
+author: "Ryan Marangattu"
+date: "2024-06-08"
+---
+
+![](images/sdss.png)
+
+I had the honor of attending the American Statistical Association's Symposium on Data Science and Statistics from June 4-7, 2024 in Richmond, VA! I appreciated being able to network with professionals in the space and watch researchers' presentations on various topics.
