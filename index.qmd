@@ -2,10 +2,12 @@
 title: "Ryan V Marangattu"
 ---
 
-Hello! I am a current Statistics student at Cal Poly.
+Hello! I am Ryan Marangattu (I also go by Ryan Varghese).
+
+I am a current Statistics student at Cal Poly.
 
 To learn more about me, visit the About Me page.
 
 To view my resume, visit the Resume page.
 
-Any projects I work on will be posted to the Projects page.
+To view projects I worked on, visit the Projects page.
