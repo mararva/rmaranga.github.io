@@ -1,13 +1,17 @@
 ---
 title: "Ryan V Marangattu"
+description: "Data analyst and statistics graduate working in cancer research, survey data, and research operations."
 ---
 
-Hello! I am Ryan Marangattu (I also go by Ryan Varghese).
+Hello! I am Ryan Marangattu (I also go by Ryan Varghese), a data analyst at the USC Norris Comprehensive Cancer Center in Los Angeles.
 
-I am a current Statistics student at Cal Poly.
+I support analytics and research in Cancer Control and Population Sciences, with work spanning REDCap survey setup, Excel data cleaning, literature searches, reporting, and research coordination. I hold a B.S. in Statistics from Cal Poly, San Luis Obispo.
 
-To learn more about me, visit the About Me page.
+## Analytics and research
 
-To view my resume, visit the Resume page.
+- **Research data:** Organize and clean data in Excel to support analysis and reporting.
+- **Survey workflows:** Set up REDCap surveys and support research documentation.
+- **Research operations:** Coordinate meetings, search literature, and prepare reports for the research team.
+- **Statistical computing:** Use Python, R, and SAS across academic projects and prior work.
 
-To view projects I worked on, visit the Projects page.
+[About me](about.qmd) · [Resume](resume.qmd) · [Download resume (PDF)](resume.pdf) · [Projects](projects.qmd)

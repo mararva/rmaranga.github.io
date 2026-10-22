@@ -1,1 +1,66 @@
-You're looking for <https://ryan.marangatwo.com/resume.pdf>.\
+---
+title: "Resume"
+description: "Ryan Marangattu - analytics and research experience, education, and selected projects."
+---
+
+[Download resume (PDF)](resume.pdf)
+
+Data analyst with a B.S. in Statistics and experience supporting research through survey setup, data cleaning, documentation, and reporting.
+
+## Experience
+
+### Data Analyst | USC Norris Comprehensive Cancer Center
+
+**Cancer Control and Population Sciences, Los Angeles | Current role**
+
+- Set up surveys in REDCap to support research data collection.
+- Clean and organize data in Excel for research analysis and reporting.
+- Conduct literature searches and prepare reports to support research activities.
+- Coordinate meetings and maintain documentation for research workflows.
+
+### Research Assistant | Cal Poly, San Luis Obispo
+
+**March - June 2026**
+
+- Supported evaluation of an educational applet through experimental design and student data collection.
+- Documented study methods and findings in a written results report.
+
+### Technician / Shop Assistant | ARCH Machining LLC
+
+**June - September 2024**
+
+- Wrote a Python script to rename CNC program files and reorganized the file repository to make programs easier to locate.
+- Supported shop operations involving CNC lathes and mills.
+
+### University Housing Student Lead | Cal Poly, San Luis Obispo
+
+**June - September 2023**
+
+- Built an Excel workbook to calculate biweekly hours and pay for temporary employees.
+- Supported student housing operations, move-in preparation, supply inventory, and maintenance requests.
+
+## Skills
+
+- **Research and data:** REDCap survey setup, Excel data cleaning, pivot tables, XLOOKUP/VLOOKUP, survey administration, experimental design, literature searches, documentation, reporting.
+- **Programming and analysis:** Python, R, SAS; basic SQL.
+- **Visualization and collaboration:** Tableau, Excel charts, Microsoft Office, Google Sheets, Git/GitHub.
+
+## Education
+
+**B.S. in Statistics** | California Polytechnic State University, San Luis Obispo | June 2026
+
+Relevant study: experimental design, survey sampling and methodology, linear modeling, probability, and statistical learning.
+
+## Selected projects
+
+### Colonel Blotto Game | R, Shiny | February 2026
+
+Built an interactive resource-allocation game with weighted battlefields, an adaptive computer opponent, and outcome visualization.
+
+[Project overview](posts/colonelblotto/colonelblotto.qmd) · [Play the game](https://maranheads.shinyapps.io/colonelblotto/) · [Source code](https://github.com/mararva/colonelblottogame)
+
+### Cal Poly student employment survey | R, SAS | December 2024
+
+Collected survey data on students' employment experiences, cleaned responses in SAS, created visualizations in R, and presented findings to a nontechnical audience.
+
+[View all projects](projects.qmd)

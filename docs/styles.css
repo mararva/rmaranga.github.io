@@ -1,1 +1,11 @@
-/* css styles */
+/* Portfolio refinements layered over the existing United theme. */
+:root { --portfolio-ink: #263746; --portfolio-accent: #a13e12; }
+main.content { max-width: 72rem; }
+main p, main li { line-height: 1.7; }
+main h2 { margin-top: 2rem; color: var(--portfolio-ink); }
+main h3 { margin-top: 1.6rem; font-size: 1.22rem; }
+main a { text-underline-offset: .18em; }
+a:focus-visible, button:focus-visible { outline: 3px solid var(--portfolio-accent); outline-offset: 4px; }
+img { max-width: 100%; height: auto; }
+@media (max-width: 600px) { main h1 { font-size: 2rem; } main h3 { font-size: 1.12rem; } }
+@media print { nav, .quarto-navigation-tool, #quarto-search { display: none !important; } }
