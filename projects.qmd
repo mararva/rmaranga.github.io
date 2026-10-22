@@ -10,3 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+Selected work in statistical computing, visualization, and interactive applications. The original project links and dates are retained.

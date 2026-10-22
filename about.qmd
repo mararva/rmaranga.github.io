@@ -1,11 +1,18 @@
 ---
 title: "About"
+description: "Ryan Marangattu's background in statistics, research data, and analytics."
 ---
 
-About this site:\
-This webpage was created for my STAT 365 course.\
-\
-About me: [View My Resume](resume.pdf)\
-I currently go to Cal Poly, and am enrolled in the undergraduate Statistics program there. I also have a Mathematics minor. My expected graduation date is June 2026.\
-My GitHub can be found here: <https://github.com/mararva>\
-My LinkedIn can be found here: <https://www.linkedin.com/in/ryan-marangattu/>
+I am Ryan Marangattu, also known as Ryan Varghese. I work as a Data Analyst at the USC Norris Comprehensive Cancer Center in Cancer Control and Population Sciences.
+
+My work combines REDCap survey setup, Excel data cleaning, literature searches, reporting, and meeting coordination. I am interested in the practical work that makes research data organized, usable, and easier to communicate.
+
+I earned my B.S. in Statistics at California Polytechnic State University, San Luis Obispo, in June 2026. My background includes experimental design, survey methodology, educational research, and statistical computing in Python, R, and SAS.
+
+## This portfolio
+
+This site began as a STAT 365 course project. It now brings together my research background and selected work in statistical computing, visualization, and interactive R Shiny applications. Project dates describe the original work.
+
+[Read my resume](resume.qmd) · [Download resume (PDF)](resume.pdf) · [Explore projects](projects.qmd)
+
+[GitHub](https://github.com/mararva) · [LinkedIn](https://www.linkedin.com/in/ryan-marangattu/)
