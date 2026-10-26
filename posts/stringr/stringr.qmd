@@ -1,6 +1,7 @@
 ---
 title: "Contributions to the Tidyverse"
 author: "Ryan Marangattu"
+description: "Contributing to the stringr package as part of an independent study."
 date: "2024-12-18"
 ---
 

@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site:\nThis webpage was created for my STAT 365 course.\n\nAbout me: View My Resume\nI currently go to Cal Poly, and am enrolled in the undergraduate Statistics program there. I also have a Mathematics minor. My expected graduation date is June 2026.\nMy GitHub can be found here: https://github.com/mararva\nMy LinkedIn can be found here: https://www.linkedin.com/in/ryan-marangattu/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ryan V Marangattu",
-    "section": "",
-    "text": "Hello! I am a current Statistics student at Cal Poly.\nTo learn more about me, visit the About Me page.\nTo view my resume, visit the Resume page.\nAny projects I work on will be posted to the Projects page."
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Ryan Marangattu",
     "section": "",
     "text": "You’re looking for https://ryan.marangatwo.com/resume.pdf."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nColonel Blotto Game\n\n\n\n\n\n\n\n\nFeb 10, 2026\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nContributions to the Tidyverse\n\n\n\n\n\n\n\n\nDec 18, 2024\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nSDSS 2024\n\n\n\n\n\n\n\n\nJun 8, 2024\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nThe Battle of Riddler Nation!\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\n\n\n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/masters/index.html",
-    "href": "posts/masters/index.html",
-    "title": "Copy the Masters: FiveThirtyEight",
-    "section": "",
-    "text": "In this project, I reproduced a graphic from FiveThirtyEight using R and the ggplot package."
-  },
-  {
-    "objectID": "projects2.html",
-    "href": "projects2.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nRyan Marangattu\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/masters/copythemasters.html",
-    "href": "posts/masters/copythemasters.html",
-    "title": "Copy the Masters: FiveThirtyEight",
-    "section": "",
-    "text": "I reproduced a graphic from FiveThirtyEight using R and the ggplot package for a class."
-  },
-  {
-    "objectID": "posts/riddler/riddler.html",
-    "href": "posts/riddler/riddler.html",
-    "title": "The Battle of Riddler Nation!",
-    "section": "",
-    "text": "In this project, I made a recreation of the Colonel Blotto game, a well known game theory problem, using RShiny. I used historical datasets from FiveThirtyEight. This project is available at https://maranheads.shinyapps.io/331project/."
   },
   {
     "objectID": "posts/stringr/stringr.html",
@@ -63,11 +14,46 @@
     "text": "As part of an independent study course I took at Cal Poly in Fall 2024, I made contributions to the stringr package of the “tidyverse” in R."
   },
   {
-    "objectID": "posts/sdss/sdss.html",
-    "href": "posts/sdss/sdss.html",
-    "title": "SDSS 2024",
+    "objectID": "posts/riddler/riddler.html",
+    "href": "posts/riddler/riddler.html",
+    "title": "The Battle of Riddler Nation!",
     "section": "",
-    "text": "I had the honor of attending the American Statistical Association’s Symposium on Data Science and Statistics from June 4-7, 2024 in Richmond, VA! I appreciated being able to network with professionals in the space and watch researchers’ presentations on various topics."
+    "text": "In this project, I made a recreation of the Colonel Blotto game, a well known game theory problem, using RShiny. I used historical datasets from FiveThirtyEight. This project is available at https://maranheads.shinyapps.io/331project/."
+  },
+  {
+    "objectID": "posts/graduation/graduation.html",
+    "href": "posts/graduation/graduation.html",
+    "title": "B.S. Statistics",
+    "section": "",
+    "text": "I graduated from Cal Poly in June 2026 with a Bachelor of Science in Statistics and a minor in Mathematics! I’m grateful to the professors, classmates, and friends who made my time in San Luis Obispo so rewarding.\nI’m now looking for my next opportunity. You can find my resume here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Ryan Marangattu.",
+    "section": "",
+    "text": "I’m a Cal Poly graduate with a B.S. in Statistics and a minor in Mathematics, and I’m currently looking for work. I like building things in R, from interactive Shiny games driven by Bayesian models to contributions to the tidyverse. I also go by Ryan Varghese.\n\n\nView projects Resume About me"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Hi, I’m Ryan Marangattu.",
+    "section": "Recent work",
+    "text": "Recent work\nAll projects →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Ryan Marangattu. I graduated from Cal Poly in June 2026 with a B.S. in Statistics and a minor in Mathematics, and I’m currently looking for work.\nMy work leans toward applied statistics in R: interactive Shiny apps, Bayesian decision-making, data visualization, and open-source contributions to the tidyverse."
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "About",
+    "section": "About this site",
+    "text": "About this site\nThis site started as a project for my STAT 365 course at Cal Poly. It’s built with Quarto."
   },
   {
     "objectID": "posts/colonelblotto/colonelblotto.html",
@@ -75,5 +61,26 @@
     "title": "Colonel Blotto Game",
     "section": "",
     "text": "I recreated the Colonel Blotto game entirely using R, using Shiny to host it as an online applet. The Colonel Blotto game is a classic problem in game theory where two players divide a fixed number of troops across castles with different strategic importance. Each castle is won by whoever commits more troops, and the overall winner is determined by the total value of castles won.\nI modeled the Colonel’s behavior using Thompson sampling, a Bayesian approach to adaptive decision making that allows decisions to improve over time through experience. This method allows it to evaluate how well each option would have performed against the player’s move after every round and adjust how likely it is to choose each one in the future. This process naturally balances trying strategies that have worked well before with occasionally exploring new ones, which keeps the Colonel adaptive and unpredictable. I modified datasets from FiveThirtyEight to help the Colonel figure out strategies.\n\nThe game can be played at https://maranheads.shinyapps.io/colonelblotto/"
+  },
+  {
+    "objectID": "posts/masters/copythemasters.html",
+    "href": "posts/masters/copythemasters.html",
+    "title": "Copy the Masters: FiveThirtyEight",
+    "section": "",
+    "text": "I reproduced a graphic from FiveThirtyEight using R and the ggplot package for a class."
+  },
+  {
+    "objectID": "posts/sdss/sdss.html",
+    "href": "posts/sdss/sdss.html",
+    "title": "SDSS 2024",
+    "section": "",
+    "text": "I had the honor of attending the American Statistical Association’s Symposium on Data Science and Statistics from June 4-7, 2024 in Richmond, VA! I appreciated being able to network with professionals in the space and watch researchers’ presentations on various topics."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "B.S. Statistics\n\n\nI graduated from Cal Poly with a B.S. in Statistics and a minor in Mathematics.\n\n\n\nJun 14, 2026\n\n\n\n\n\n\n\n\n\n\n\nColonel Blotto Game\n\n\nA Shiny game where an adaptive opponent learns your strategy with Thompson sampling.\n\n\n\nFeb 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nContributions to the Tidyverse\n\n\nContributing to the stringr package as part of an independent study.\n\n\n\nDec 18, 2024\n\n\n\n\n\n\n\n\n\n\n\nSDSS 2024\n\n\nAttending the ASA Symposium on Data Science and Statistics in Richmond, VA.\n\n\n\nJun 8, 2024\n\n\n\n\n\n\n\n\n\n\n\nThe Battle of Riddler Nation!\n\n\nA Shiny recreation of the Colonel Blotto game using FiveThirtyEight data.\n\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\nCopy the Masters: FiveThirtyEight\n\n\nReproducing a FiveThirtyEight graphic in R with ggplot2.\n\n\n\nMay 20, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]

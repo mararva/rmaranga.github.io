@@ -1,6 +1,7 @@
 ---
 title: "SDSS 2024"
 author: "Ryan Marangattu"
+description: "Attending the ASA Symposium on Data Science and Statistics in Richmond, VA."
 date: "2024-06-08"
 ---
 

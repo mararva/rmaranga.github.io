@@ -1,0 +1,12 @@
+---
+title: "B.S. Statistics"
+author: "Ryan Marangattu"
+description: "I graduated from Cal Poly with a B.S. in Statistics and a minor in Mathematics."
+date: "2026-06-14"
+---
+
+![](images/calpoly.webp)
+
+I graduated from Cal Poly in June 2026 with a Bachelor of Science in Statistics and a minor in Mathematics! I'm grateful to the professors, classmates, and friends who made my time in San Luis Obispo so rewarding.
+
+I'm now looking for my next opportunity. You can find my [resume here](../../resume.pdf).

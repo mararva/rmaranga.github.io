@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Fraunces", Georgia, serif;
+$font-family-monospace: "JetBrains Mono", ui-monospace, monospace;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+$headings-font-weight: 600;
+
+$body-bg: #faf8f4;
+$body-color: #1f2328;
+$primary: #0f6e5c;
+$secondary: #6b7280;
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-decoration: underline;
+
+$navbar-bg: $body-bg;
+$navbar-fg: #3b4048;
+$navbar-hl: $primary;
+$footer-bg: $body-bg;
+$footer-fg: #6b7280;
+
+$border-radius: 0.5rem;
+$border-color: #e6e1d8;
+
+/*-- scss:rules --*/
+
+:root {
+  --site-surface: #ffffff;
+  --site-border: #e6e1d8;
+  --site-muted: #6b7280;
+  --site-accent: #0f6e5c;
+  --site-accent-soft: #e3f1ec;
+}

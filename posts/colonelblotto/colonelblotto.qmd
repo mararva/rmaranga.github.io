@@ -1,6 +1,7 @@
 ---
 title: "Colonel Blotto Game"
 author: "Ryan Marangattu"
+description: "A Shiny game where an adaptive opponent learns your strategy with Thompson sampling."
 date: "2026-02-10"
 ---
 

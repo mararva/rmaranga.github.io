@@ -1,6 +1,7 @@
 ---
 title: "The Battle of Riddler Nation!"
 author: "Ryan Marangattu"
+description: "A Shiny recreation of the Colonel Blotto game using FiveThirtyEight data."
 date: "2023-12-08"
 ---
 

@@ -1,11 +1,29 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site:\
-This webpage was created for my STAT 365 course.\
-\
-About me: [View My Resume](resume.pdf)\
-I currently go to Cal Poly, and am enrolled in the undergraduate Statistics program there. I also have a Mathematics minor. My expected graduation date is June 2026.\
-My GitHub can be found here: <https://github.com/mararva>\
-My LinkedIn can be found here: <https://www.linkedin.com/in/ryan-marangattu/>
+::: lead-text
+I'm Ryan Marangattu. I graduated from Cal Poly in June 2026 with a B.S. in Statistics and a minor in Mathematics, and I'm currently looking for work.
+:::
+
+My work leans toward applied statistics in R: interactive Shiny apps, Bayesian decision-making, data visualization, and open-source contributions to the tidyverse.
+
+::: info-grid
+::: info-card
+### Education
+Cal Poly, B.S. Statistics (2026)\
+Minor in Mathematics
+:::
+
+::: info-card
+### Find me
+[GitHub](https://github.com/mararva)\
+[LinkedIn](https://www.linkedin.com/in/ryan-marangattu/)\
+[Resume (PDF)](resume.pdf)
+:::
+:::
+
+## About this site
+
+This site started as a project for my STAT 365 course at Cal Poly. It's built with [Quarto](https://quarto.org).

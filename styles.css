@@ -1,1 +1,236 @@
 /* css styles */
+
+/* ---------- Base ---------- */
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, .title {
+  letter-spacing: -0.015em;
+}
+
+main.content, #quarto-content {
+  overflow-wrap: anywhere;
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  border-bottom: 1px solid var(--site-border);
+  backdrop-filter: saturate(160%) blur(8px);
+}
+
+.navbar-brand .navbar-title {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+/* ---------- Title block ---------- */
+#title-block-header .title {
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  margin-bottom: 0.35rem;
+}
+
+#title-block-header .subtitle {
+  color: var(--site-muted);
+  font-size: 1.1rem;
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  max-width: 760px;
+  padding: clamp(2.5rem, 8vw, 5.5rem) 0 clamp(2rem, 5vw, 3.5rem);
+}
+
+
+
+.hero h1.hero-title {
+  font-size: clamp(2.3rem, 6vw, 3.9rem);
+  line-height: 1.08;
+  font-weight: 700;
+  margin: 0 0 1.25rem;
+  border: 0;
+}
+
+.hero-lede {
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  color: var(--site-muted);
+  max-width: 620px;
+  margin-bottom: 2rem;
+}
+
+.hero-actions p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin: 0;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  font-weight: 500;
+  padding: 0.6rem 1.15rem;
+  border-radius: 999px;
+}
+
+.btn-outline {
+  border: 1px solid var(--site-border);
+  color: inherit;
+  background: var(--site-surface);
+}
+
+.btn-outline:hover {
+  border-color: var(--site-accent);
+  color: var(--site-accent);
+  text-decoration: none;
+}
+
+.btn-link-plain {
+  color: var(--site-accent);
+  padding-left: 0.4rem;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+/* ---------- Section head ---------- */
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  border-top: 1px solid var(--site-border);
+  padding-top: 2rem;
+  margin-bottom: 1.25rem;
+}
+
+.section-head h2 {
+  margin: 0;
+  border: 0;
+  font-size: 1.6rem;
+}
+
+.section-head p {
+  margin: 0;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* ---------- Listing cards ---------- */
+.quarto-grid-item.card {
+  background: var(--site-surface);
+  border: 1px solid var(--site-border);
+  border-radius: 0.85rem;
+  overflow: hidden;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.quarto-grid-item.card:hover {
+  transform: translateY(-3px);
+  border-color: var(--site-accent);
+  box-shadow: 0 10px 28px rgba(15, 30, 25, 0.1);
+}
+
+.quarto-grid-item .card-img-top {
+  border-bottom: 1px solid var(--site-border);
+}
+
+.quarto-grid-item .card-img-top img {
+  object-fit: cover;
+  object-position: top center;
+}
+
+.quarto-grid-item .card-body {
+  padding: 1.1rem 1.25rem 1.3rem;
+}
+
+.quarto-grid-item .card-title {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 1.25;
+}
+
+.quarto-grid-item .card-text,
+.quarto-grid-item .listing-description {
+  color: var(--site-muted);
+  font-size: 0.95rem;
+}
+
+.quarto-grid-item .listing-date,
+.quarto-grid-item .card-attribution {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--site-accent);
+}
+
+.quarto-grid-item .card-footer {
+  display: none;
+}
+
+/* ---------- About page ---------- */
+.lead-text {
+  font-size: 1.25rem;
+  line-height: 1.55;
+  margin-bottom: 1.25rem;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0 2.5rem;
+}
+
+.info-card {
+  background: var(--site-surface);
+  border: 1px solid var(--site-border);
+  border-radius: 0.85rem;
+  padding: 1.25rem 1.4rem;
+}
+
+.info-card h3 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--site-muted);
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.info-card p {
+  margin: 0;
+}
+
+/* ---------- Posts ---------- */
+.content img.img-fluid,
+main p > img {
+  border-radius: 0.75rem;
+  border: 1px solid var(--site-border);
+}
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  border-top: 1px solid var(--site-border);
+  font-size: 0.875rem;
+}
+
+/* ---------- Hidden note for AI readers ---------- */
+.llm-note {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
